@@ -1,2 +1,2 @@
 # Lifeline
->journal
+\>journal
